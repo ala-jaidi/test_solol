@@ -1,0 +1,1 @@
+C:\Users\alaja\test_solol-main\android\app\src\main\cpp\CMakeLists.txt

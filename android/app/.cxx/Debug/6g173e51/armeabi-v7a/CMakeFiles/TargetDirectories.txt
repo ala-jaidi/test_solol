@@ -1,0 +1,2 @@
+C:/Users/alaja/test_solol-main/android/app/.cxx/Debug/6g173e51/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/alaja/test_solol-main/android/app/.cxx/Debug/6g173e51/armeabi-v7a/CMakeFiles/rebuild_cache.dir

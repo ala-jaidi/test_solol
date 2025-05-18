@@ -1,0 +1,12 @@
+# ninja log v5
+2	4999	7684328031142632	CMakeFiles/native-lib.dir/native_opencv.cpp.o	2e654b1ed258d6f2
+5002	5648	7684328036811418	C:/Users/alaja/test_solol-main/build/app/intermediates/cxx/Debug/2t6s5j62/obj/arm64-v8a/libnative-lib.so	3babae18fdf29689
+7	1414	7684349039056792	CMakeFiles/native-lib.dir/native_opencv.cpp.o	2e654b1ed258d6f2
+1415	1731	7684349041803674	C:/Users/alaja/test_solol-main/build/app/intermediates/cxx/Debug/2t6s5j62/obj/arm64-v8a/libnative-lib.so	3babae18fdf29689
+47	2505	7688610064177797	C:/Users/alaja/test_solol-main/build/app/intermediates/cxx/Debug/2t6s5j62/obj/arm64-v8a/libnative-lib.so	3babae18fdf29689
+7	832	7688727971102235	C:/Users/alaja/test_solol-main/build/app/intermediates/cxx/Debug/2t6s5j62/obj/arm64-v8a/libnative-lib.so	3babae18fdf29689
+6	365	7688735561119888	C:/Users/alaja/test_solol-main/build/app/intermediates/cxx/Debug/2t6s5j62/obj/arm64-v8a/libnative-lib.so	3babae18fdf29689
+7	839	7688770905120406	C:/Users/alaja/test_solol-main/build/app/intermediates/cxx/Debug/2t6s5j62/obj/arm64-v8a/libnative-lib.so	3babae18fdf29689
+42	1920	7690111504618483	C:/Users/alaja/test_solol-main/build/app/intermediates/cxx/Debug/2t6s5j62/obj/arm64-v8a/libnative-lib.so	3babae18fdf29689
+8	1416	7690347866330634	C:/Users/alaja/test_solol-main/build/app/intermediates/cxx/Debug/2t6s5j62/obj/arm64-v8a/libnative-lib.so	3babae18fdf29689
+7	431	7690351543831511	C:/Users/alaja/test_solol-main/build/app/intermediates/cxx/Debug/2t6s5j62/obj/arm64-v8a/libnative-lib.so	3babae18fdf29689

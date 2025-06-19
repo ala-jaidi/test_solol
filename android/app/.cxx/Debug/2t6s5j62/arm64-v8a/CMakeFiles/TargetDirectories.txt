@@ -1,0 +1,3 @@
+C:/Users/alaja/test_solol-main/android/app/.cxx/Debug/2t6s5j62/arm64-v8a/CMakeFiles/native-lib.dir
+C:/Users/alaja/test_solol-main/android/app/.cxx/Debug/2t6s5j62/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/alaja/test_solol-main/android/app/.cxx/Debug/2t6s5j62/arm64-v8a/CMakeFiles/rebuild_cache.dir

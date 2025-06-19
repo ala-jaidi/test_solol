@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/alaja/test_solol-main/android/app/.cxx/Debug/2t6s5j62/x86_64",
+  "command": "C:\\Users\\alaja\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android26 --sysroot=C:/Users/alaja/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -isystem C:/Users/alaja/OpenCV-android-sdk/sdk/native/jni/include -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\native-lib.dir\\native_opencv.cpp.o -c C:\\Users\\alaja\\test_solol-main\\android\\app\\src\\main\\cpp\\native_opencv.cpp",
+  "file": "C:\\Users\\alaja\\test_solol-main\\android\\app\\src\\main\\cpp\\native_opencv.cpp"
+}
+]
